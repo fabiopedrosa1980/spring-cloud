@@ -3,15 +3,15 @@
 
 ## Projeto Spring Cloud com a stack Netflix OSS
 
-### Gateway Zull
+### Gateway com Zull
 
-### Loadbalance Ribbon
+### Loadbalance com Ribbon
 
-### Server Discovery Eurecka
+### Server Discovery com Eureka
 
-### Config Server
+### Config Server com Spring Boot
 
-### Circuit Breaker Hystrix
+### Circuit Breaker com Hystrix
 
 
 
